@@ -24,12 +24,6 @@ Coparticipação:
 
 Proposta de trabalho: O foco deste treinamento será o desenvolvimento de uma pequena aplicação para uma empresa fictícia, com o objetivo de preparar os alunos para o mercado de trabalho. 
 
-Nome: Vanderlanio Linhares Aguiar 
-Cargo: Dev Lead | Senior Software Engineer na Lojas Renner S.A.
- 
-
-
-
 
 Relatório: 
 Nosso relatório será emitido a cada término de módulo, no intuito de informar o andamento de forma visual e simples.
